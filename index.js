@@ -1,6 +1,6 @@
-// Script by Xeon 
+// Script by dabdoby 
 // 𝐃𝐨𝐠𝐞 𝐁𝐨𝐭
-// ©Xeon Bot Incorporated
+// ©Dabdoby Bot Incorporated
 const {
   WAConnection: _WAConnection,
   MessageType,
